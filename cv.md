@@ -5,7 +5,7 @@
 ## Junior Frontend Developer
 
 ### Contacts:
-- [Email](pavelrabekinwork@gmail.com)
+- Email: pavelrabekinwork@gmail.com
 - [Telegram](https://t.me/DedRobin)
 - [GitHub](https://github.com/DedRobin)
 
