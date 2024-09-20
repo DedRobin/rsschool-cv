@@ -40,7 +40,7 @@ I am looking for a place with a friendly and cohesive team where I can unlock my
 ## Education
 - Universuty: Belarusian State Technological University
 - Courses:
-    - Stepik (Python for begnners) [Certificate](images\stepik-certificate-python-for-beginners.pdf)
+    - Stepik (Python for beginners) [Certificate](images\stepik-certificate-python-for-beginners.pdf)
     - TeachMeSkills (Python Developer) [Certificate](images\teachmeskills-certificate-python-developer.pdf)
     - RSSchool JavaSript/Front-end 2023Q4 [Certificate](images\rsschool-javascript-frontend-2023q4.pdf)
 
