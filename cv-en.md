@@ -12,9 +12,14 @@
 - [GitHub](https://github.com/DedRobin)
 
 ## About me
-I am purposeful, responsible and communicative. I can work in a team, ready for self-training.
+I started getting interested in programming in 2021, starting with backend development in Python. In the process of studying, I realized that I spend more time on the visual part of applications and decided 
+ to study the Frontend direction.
 
-Projects:
+My perseverance and dedication to the process, responsibility, attention to detail, and determination help me solve problems. 
+
+I am looking for a place with a friendly and cohesive team where I can unlock my potential, develop as a specialist, and improve my soft and hard skills.
+
+## Projects:
 - [REST/GraphQL Client](https://restgraphqlclient.netlify.app/)
 
 > This project was created during my studies on the course called ***School – React 2024 Q3***.
@@ -25,6 +30,7 @@ Projects:
 - Typescript
 - Webpack
 - React
+- Redux
 - Next.js
 - Git
 - HTML
