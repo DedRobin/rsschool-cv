@@ -4,7 +4,7 @@
 
 ## Junior Frontend Developer
 
-![Pavel Rabekin](img\photo.jpg)
+<img src="img\photo.jpg" width="300" height="300">
 
 ### Contacts:
 - Email: pavelrabekinwork@gmail.com
