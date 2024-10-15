@@ -2,7 +2,7 @@
 
 # Павел рабекин
 
-## Джуниор фронтенд разработчик
+## Junior Front-end Developer
 
 <img src="img\photo.jpg" width="300" height="300">
 
@@ -22,12 +22,12 @@
 ## Проекты:
 - [REST/GraphQL Client](https://restgraphqlclient.netlify.app/)
 
-> Этот проект был разработан в течении убочения на курсе ***School – React 2024 Q3***.
+> Этот проект был разработан в течении обучения на курсе ***RSSchool – React 2024 Q3***.
 
 
 ## Навыки:
-- Javascript
-- Typescript
+- JavaScript
+- TypeScript
 - Webpack
 - React
 - Redux
