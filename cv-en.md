@@ -2,7 +2,7 @@
 
 # Pavel Rabekin
 
-## Junior Frontend Developer
+## Junior Front-end Developer
 
 <img src="img\photo.jpg" width="300" height="300">
 
