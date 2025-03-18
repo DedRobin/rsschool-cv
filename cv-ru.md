@@ -1,6 +1,6 @@
 ## rsschool-cv
 
-# Павел рабекин
+# Павел Рабекин
 
 ## Junior Front-end Developer
 
