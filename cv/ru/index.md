@@ -7,34 +7,15 @@
 <img src="../../img/photo.jpg" width="250" height="250">
 
 ### Контакты:
-- Email: pavelrabekinwork@gmail.com
+
+- pavelrabekinwork@gmail.com
 - [Telegram](https://t.me/DedRobin)
 - [GitHub](https://github.com/DedRobin)
 
+## Навыки:
+ Git, HTML, CSS, JavaScript, TypeScript, Webpack, React, Redux, Next.js
+
 ## Опыт
-
-### JavaScript/Front-end 2023Q4 (Курсы [RSSchool](https://rs.school/))
-
-**Frontend-разработчик**
-В процессе обучения освоил:
-- Git
-- HTML, CSS
-- JavaScript, TypeScript
-- Webpack и Vite
-- ESLint, Prettier
-
-### JavaScript/Front-end 2024Q4 (Курсы [RSSchool](https://rs.school/))
-
-**Frontend-разработчик**
-Проекты реализованные во время обучения:
-1) HTML, CSS, JavaScript - Сайт-магазин (Christmas shop)
-https://rolling-scopes-school.github.io/dedrobin-JSFE2024Q4/christmas-shop/
-2) JavaScript- Игра по подбору слов (Simon says)
-https://rolling-scopes-school.github.io/dedrobin-JSFE2024Q4/simon-says/
-3) JavaScript, Vite - Нонограмма
-https://rolling-scopes-school.github.io/dedrobin-JSFE2024Q4/nonograms
-4) TypeScript, Vite - Приложение для составления списка задач и случайного подбора одной из них (Decision Making Tool)
-https://dedrobin-decision-making-tool.netlify.app/
 
 ## Проекты:
 - [REST/GraphQL Client](https://restgraphqlclient.netlify.app/)
@@ -56,16 +37,24 @@ React, Next.js, Tailwind CSS, Redux, REST, GraphQL
 - страница с историей сделанных запросов с указанием вида, статуса, времени
 - интернационализация приложения
 
-## Навыки:
-- JavaScript
-- TypeScript
-- Webpack
-- React
-- Redux
-- Next.js
+### JavaScript/Front-end 2024Q4 (Курсы [RSSchool](https://rs.school/))
+
+**Frontend-разработчик**
+Проекты реализованные во время обучения:
+1) HTML, CSS, JavaScript - Сайт-магазин [Christmas shop](https://rolling-scopes-school.github.io/dedrobin-JSFE2024Q4/christmas-shop/)
+2) JavaScript- Игра по подбору слов [Simon says](https://rolling-scopes-school.github.io/dedrobin-JSFE2024Q4/simon-says/)
+3) JavaScript, Vite - [Нонограмма](https://rolling-scopes-school.github.io/dedrobin-JSFE2024Q4/nonograms)
+4) TypeScript, Vite - [Приложение для составления списка задач и случайного подбора одной из них (Decision Making Tool)](https://dedrobin-decision-making-tool.netlify.app/)
+
+### JavaScript/Front-end 2023Q4 (Курсы [RSSchool](https://rs.school/))
+
+**Frontend-разработчик**
+В процессе обучения освоил:
 - Git
-- HTML
-- CSS
+- HTML, CSS
+- JavaScript, TypeScript
+- Webpack и Vite
+- ESLint, Prettier
 
 ## Образование
 
