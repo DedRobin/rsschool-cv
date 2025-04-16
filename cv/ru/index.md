@@ -18,7 +18,7 @@
 ## Опыт
 
 ## Проекты:
-- [REST/GraphQL Client](https://restgraphqlclient.netlify.app/)
+### [REST/GraphQL Client](https://restgraphqlclient.netlify.app/)
 
 > Этот проект был разработан в течении обучения на курсе ***RSSchool – React 2024 Q3***.
 
@@ -40,6 +40,7 @@ React, Next.js, Tailwind CSS, Redux, REST, GraphQL
 ### JavaScript/Front-end 2024Q4 (Курсы [RSSchool](https://rs.school/))
 
 **Frontend-разработчик**
+
 Проекты реализованные во время обучения:
 1) HTML, CSS, JavaScript - Сайт-магазин [Christmas shop](https://rolling-scopes-school.github.io/dedrobin-JSFE2024Q4/christmas-shop/)
 2) JavaScript- Игра по подбору слов [Simon says](https://rolling-scopes-school.github.io/dedrobin-JSFE2024Q4/simon-says/)
@@ -49,6 +50,7 @@ React, Next.js, Tailwind CSS, Redux, REST, GraphQL
 ### JavaScript/Front-end 2023Q4 (Курсы [RSSchool](https://rs.school/))
 
 **Frontend-разработчик**
+
 В процессе обучения освоил:
 - Git
 - HTML, CSS
