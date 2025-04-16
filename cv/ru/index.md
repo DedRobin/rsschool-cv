@@ -43,10 +43,10 @@ React, Next.js, Tailwind CSS, Redux, REST, GraphQL
 
 Проекты реализованные во время обучения:
 
-1) HTML, CSS, JavaScript - Сайт-магазин [Christmas shop](https://rolling-scopes-school.github.io/dedrobin-JSFE2024Q4/christmas-shop/)
-2) JavaScript- Игра по подбору слов [Simon says](https://rolling-scopes-school.github.io/dedrobin-JSFE2024Q4/simon-says/)
-3) JavaScript, Vite - [Нонограмма](https://rolling-scopes-school.github.io/dedrobin-JSFE2024Q4/nonograms)
-4) TypeScript, Vite - [Приложение для составления списка задач и случайного подбора одной из них (Decision Making Tool)](https://dedrobin-decision-making-tool.netlify.app/)
+- HTML, CSS, JavaScript - Сайт-магазин [Christmas shop](https://rolling-scopes-school.github.io/dedrobin-JSFE2024Q4/christmas-shop/)
+- JavaScript- Игра по подбору слов [Simon says](https://rolling-scopes-school.github.io/dedrobin-JSFE2024Q4/simon-says/)
+- JavaScript, Vite - [Нонограмма](https://rolling-scopes-school.github.io/dedrobin-JSFE2024Q4/nonograms)
+- TypeScript, Vite - [Приложение для составления списка задач и случайного подбора одной из них (Decision Making Tool)](https://dedrobin-decision-making-tool.netlify.app/)
 
 ### JavaScript/Front-end 2023Q4 (Курсы [RSSchool](https://rs.school/)) [Certificate](images\rsschool-javascript-frontend-2023q4.pdf)
 
