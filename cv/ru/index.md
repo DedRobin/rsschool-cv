@@ -42,6 +42,7 @@ React, Next.js, Tailwind CSS, Redux, REST, GraphQL
 **Frontend-разработчик**
 
 Проекты реализованные во время обучения:
+
 1) HTML, CSS, JavaScript - Сайт-магазин [Christmas shop](https://rolling-scopes-school.github.io/dedrobin-JSFE2024Q4/christmas-shop/)
 2) JavaScript- Игра по подбору слов [Simon says](https://rolling-scopes-school.github.io/dedrobin-JSFE2024Q4/simon-says/)
 3) JavaScript, Vite - [Нонограмма](https://rolling-scopes-school.github.io/dedrobin-JSFE2024Q4/nonograms)
