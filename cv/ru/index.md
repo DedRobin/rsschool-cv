@@ -47,7 +47,7 @@ React, Next.js, Tailwind CSS, Redux, REST, GraphQL
 3) JavaScript, Vite - [Нонограмма](https://rolling-scopes-school.github.io/dedrobin-JSFE2024Q4/nonograms)
 4) TypeScript, Vite - [Приложение для составления списка задач и случайного подбора одной из них (Decision Making Tool)](https://dedrobin-decision-making-tool.netlify.app/)
 
-### JavaScript/Front-end 2023Q4 (Курсы [RSSchool](https://rs.school/))
+### JavaScript/Front-end 2023Q4 (Курсы [RSSchool](https://rs.school/)) [Certificate](images\rsschool-javascript-frontend-2023q4.pdf)
 
 **Frontend-разработчик**
 
@@ -63,9 +63,7 @@ React, Next.js, Tailwind CSS, Redux, REST, GraphQL
 ### Высшее
 - Белорусский государственный технологический университет (2011 - 2016)
 
-### Курсы
 
-- RSSchool JavaSript/Front-end 2023Q4 [Certificate](images\rsschool-javascript-frontend-2023q4.pdf)
 
 ## English
 ***Pre-Intermediate (B1)*** [Cerificate](images\streamline-english-b1.pdf) 
